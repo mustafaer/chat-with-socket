@@ -1,0 +1,25 @@
+{
+  "name": "chat-with-socket",
+  "version": "1.0.0",
+  "description": "Chat App with Nodejs Socket IO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafaer/chat-with-socket.git"
+  },
+  "keywords": [
+    "node.js",
+    "socket.io",
+    "chat",
+    "example"
+  ],
+  "author": "Mustafa ER",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mustafaer/chat-with-socket/issues"
+  },
+  "homepage": "https://github.com/mustafaer/chat-with-socket#readme"
+}
