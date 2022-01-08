@@ -24,7 +24,7 @@
   "homepage": "https://github.com/mustafaer/chat-with-socket#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {}
 }
